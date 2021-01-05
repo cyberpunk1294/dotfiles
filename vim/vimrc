@@ -1,5 +1,3 @@
 set number
 syntax on
-"colorscheme xcodelight
-"colorscheme molokai
 colorscheme apprentice
